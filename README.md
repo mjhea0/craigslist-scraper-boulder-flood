@@ -10,4 +10,7 @@ This script searches Boulder housing based on your search criteria and sends aut
 2. optional: update city (line 39), email message (line 76)
 3. ruby craigs.rb
 
+> Developed in haste. It works. But it needs a little love. <3
+
+
 
